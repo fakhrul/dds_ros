@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/fakhrul/urdf_test_ws/build/dds_rtu",
+        "/home/fakhrul/urdf_test_ws/install/dds_rtu/lib/python3.10/site-packages",
+        "/home/fakhrul/urdf_test_ws/build/cv_basics",
+        "/home/fakhrul/urdf_test_ws/install/cv_basics/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/fakhrul/urdf_test_ws/build/dds_rtu",
+        "/home/fakhrul/urdf_test_ws/install/dds_rtu/lib/python3.10/site-packages",
+        "/home/fakhrul/urdf_test_ws/build/cv_basics",
+        "/home/fakhrul/urdf_test_ws/install/cv_basics/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
